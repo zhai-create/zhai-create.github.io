@@ -9,7 +9,8 @@
 # title                    : "Lorem ipsum"
 title                    : "Shichao Zhai"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-description              : "My main research areas include robotics, navigation, SLAM, deep learning, and intelligent sensors. "
+# description              : "My main research areas include robotics, navigation, SLAM, deep learning, and intelligent sensors. "
+description: "A master student in the State Key Laboratory of Industrial Control Technology. Focusing on robotics, navigation, SLAM, deep learning, and intelligent sensors. "
 # repository               : "RayeRen/acad-homepage.github.io"
 repository               : "zhai-create/zhai-create.github.io"
 google_scholar_stats_use_cdn : true
