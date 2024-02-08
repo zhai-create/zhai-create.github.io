@@ -94,8 +94,8 @@ My main research areas include robotics, navigation, SLAM, deep learning, and in
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.01 - 2023.02*, [Dongguan Songshan Lake Robot Industry Base](https://www.xbotpark.com/), China.
-- *2023.05 - 2023.07*, [Intel FPGA China Innovation Center](https://www.fpga-china.com/), China.
+- *2023.01 - 2023.02*, [Dongguan Songshan Lake Robot Industry Base](https://www.xbotpark.com/), Dongguan, China.
+- *2023.05 - 2023.07*, [Intel FPGA China Innovation Center](https://www.fpga-china.com/), Chongqing, China.
 
 
 <!-- # 💻 Societies
