@@ -40,28 +40,28 @@ My main research areas include robotics, navigation, SLAM, deep learning, and in
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> --> 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='1.png' alt="sym" width="100%"><img/></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [M2FL-CCC: Multibranch Multilayer Feature Leaning and Comprehensive Classification Criterion for Gas Sensor Drift Compensation](https://ieeexplore.ieee.org/document/10187901)
 
 **Shichao Zhai**, Mingye Han, Zhe Li, Shuangjing Yang, Shukai Duan, Jia Yan
 
-[**Project**](https://github.com/zhai-create/E-nose-NN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/zhai-create/E-nose-NN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>s
 - The model does not depend on the target domain samples in the training stage, which is consistent with the actual application scenario.
 - The use of a multibranch structure for customized multisensor feature extraction is more in line with the working mechanism of the mammalian olfactory perception system.
 - A novel classification strategy based on a CCC is proposed. This strategy couples the classifier ensemble and the separation degree measure.
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
 [A multilevel interleaved group attention-based convolutional network for gas detection via an electronic nose system](https://www.sciencedirect.com/science/article/pii/S0952197624001969?dgcid=coauthor)
 
