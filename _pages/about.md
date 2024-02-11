@@ -40,11 +40,11 @@ My main research areas include robotics, navigation, SLAM, deep learning, and in
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A</div><img src='1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='1.png' alt="sym" width="100%"><img/></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='1.png' alt="sym" width="100%"><img/></div></div> -->
+<div class='paper-box-text' markdown="1">
 
 [M2FL-CCC: Multibranch Multilayer Feature Leaning and Comprehensive Classification Criterion for Gas Sensor Drift Compensation](https://ieeexplore.ieee.org/document/10187901)
 
@@ -57,7 +57,7 @@ My main research areas include robotics, navigation, SLAM, deep learning, and in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">B</div><img src='2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><img src='2.png' alt="sym" width="100%"></div></div>
